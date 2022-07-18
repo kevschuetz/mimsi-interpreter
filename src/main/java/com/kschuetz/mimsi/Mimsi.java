@@ -1,3 +1,5 @@
+package com.kschuetz.mimsi;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

@@ -1,3 +1,5 @@
+package com.kschuetz.mimsi;
+
 public class Token {
     final TokenType type;
     final String lexeme;
